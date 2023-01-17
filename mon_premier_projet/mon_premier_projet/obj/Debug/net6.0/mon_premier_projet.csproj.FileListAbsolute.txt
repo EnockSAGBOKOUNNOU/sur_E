@@ -1,0 +1,15 @@
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\bin\Debug\net6.0\mon_premier_projet.exe
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\bin\Debug\net6.0\mon_premier_projet.deps.json
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\bin\Debug\net6.0\mon_premier_projet.runtimeconfig.json
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\bin\Debug\net6.0\mon_premier_projet.dll
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\bin\Debug\net6.0\mon_premier_projet.pdb
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\obj\Debug\net6.0\mon_premier_projet.csproj.AssemblyReference.cache
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\obj\Debug\net6.0\mon_premier_projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\obj\Debug\net6.0\mon_premier_projet.AssemblyInfoInputs.cache
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\obj\Debug\net6.0\mon_premier_projet.AssemblyInfo.cs
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\obj\Debug\net6.0\mon_premier_projet.csproj.CoreCompileInputs.cache
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\obj\Debug\net6.0\mon_premier_projet.dll
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\obj\Debug\net6.0\refint\mon_premier_projet.dll
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\obj\Debug\net6.0\mon_premier_projet.pdb
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\obj\Debug\net6.0\mon_premier_projet.genruntimeconfig.cache
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet\mon_premier_projet\obj\Debug\net6.0\ref\mon_premier_projet.dll

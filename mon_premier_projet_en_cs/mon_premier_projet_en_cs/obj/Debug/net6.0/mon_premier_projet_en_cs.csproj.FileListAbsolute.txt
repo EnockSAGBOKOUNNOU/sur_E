@@ -1,0 +1,15 @@
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\bin\Debug\net6.0\mon_premier_projet_en_cs.exe
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\bin\Debug\net6.0\mon_premier_projet_en_cs.deps.json
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\bin\Debug\net6.0\mon_premier_projet_en_cs.runtimeconfig.json
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\bin\Debug\net6.0\mon_premier_projet_en_cs.dll
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\bin\Debug\net6.0\mon_premier_projet_en_cs.pdb
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\obj\Debug\net6.0\mon_premier_projet_en_cs.csproj.AssemblyReference.cache
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\obj\Debug\net6.0\mon_premier_projet_en_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\obj\Debug\net6.0\mon_premier_projet_en_cs.AssemblyInfoInputs.cache
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\obj\Debug\net6.0\mon_premier_projet_en_cs.AssemblyInfo.cs
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\obj\Debug\net6.0\mon_premier_projet_en_cs.csproj.CoreCompileInputs.cache
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\obj\Debug\net6.0\mon_premier_projet_en_cs.dll
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\obj\Debug\net6.0\refint\mon_premier_projet_en_cs.dll
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\obj\Debug\net6.0\mon_premier_projet_en_cs.pdb
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\obj\Debug\net6.0\mon_premier_projet_en_cs.genruntimeconfig.cache
+C:\Users\Enock SKY\Desktop\vvss\mon_premier_projet_en_cs\mon_premier_projet_en_cs\obj\Debug\net6.0\ref\mon_premier_projet_en_cs.dll
